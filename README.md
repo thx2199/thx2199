@@ -5,7 +5,7 @@
 
 # Hi, I'm [anyiya](https://www.cnblogs.com/thx2199/p/15120091.html) 👋.
 
-啥也不会 ， 热爱编程 :hatching_chick:
+啥也不会 ， 喜欢编程 :hatching_chick:
 
 愿你编译运行时有同收剑入鞘般的骄傲。 :running:
 
