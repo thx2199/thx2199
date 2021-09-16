@@ -20,6 +20,6 @@
 
 &nbsp;
 
-Thanks for stopping by! 😁
+下次再见~ 😁
 
 ---
