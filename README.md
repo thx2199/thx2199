@@ -1,8 +1,6 @@
 <!--你好~ 欢迎来到我的 github-->
 
 <img align="right" width="300" height="169" src="https://github.com/thx2199/thx2199/blob/main/maid.gif?raw=true">
-
-<img align="right" width="300" height="169" src="https://github.com/thx2199/thx2199/blob/main/QQ%E5%9B%BE%E7%89%8720210906104137.jpg?raw=true">
 # Hi, I'm [anyiya](https://www.cnblogs.com/thx2199/p/15120091.html) 👋.
 
 不会也不学 ， 学也学不会 :hatching_chick:
