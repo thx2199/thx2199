@@ -5,18 +5,3 @@
 # Hi, I'm [anyiya](https://www.cnblogs.com/thx2199/p/15120091.html) 👋.
 
 愿你编译运行时有同收剑入鞘般的骄傲。 :running:
-
-<!--## About me 
-
-❤️ 开源| 🖤 copy | 📺 Algorithm
-
-- 🌐  Squat at home
-- 💻  Algorithm
-- 🍓  copy code
-  -->
-
-&nbsp;
-
-
-
----
